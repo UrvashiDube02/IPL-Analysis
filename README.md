@@ -1,6 +1,6 @@
 # IPL-Analysis
 <br>
-**Introduction**
+Introduction
 <br>
 <p align = "justify">
 The Indian Premier League (IPL) is a professional Twenty20 cricket league in India, featuring 
